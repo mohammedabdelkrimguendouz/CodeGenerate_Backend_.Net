@@ -1,0 +1,54 @@
+C:\Users\PC0\Music\CodeGeneratore_Business\bin\Debug\CodeGeneratore_Business.dll
+C:\Users\PC0\Music\CodeGeneratore_Business\bin\Debug\CodeGeneratore_Business.pdb
+C:\Users\PC0\Music\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.csproj.AssemblyReference.cache
+C:\Users\PC0\Music\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Music\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.dll
+C:\Users\PC0\Music\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.pdb
+C:\Users\PC0\Music\CodeGeneratore_Business\bin\Debug\CodeGeneratore_DataAccess.dll
+C:\Users\PC0\Music\CodeGeneratore_Business\bin\Debug\CodeGeneratore_DataAccess.pdb
+C:\Users\PC0\Music\CodeGeneratore_Business\obj\Debug\CodeGene.E4D19D91.Up2Date
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_Business\bin\Debug\CodeGeneratore_Business.dll
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_Business\bin\Debug\CodeGeneratore_Business.pdb
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_Business\bin\Debug\CodeGeneratore_DataAccess.dll
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_Business\bin\Debug\CodeGeneratore_DataAccess.pdb
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_Business\obj\Debug\CodeGene.E4D19D91.Up2Date
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.dll
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.pdb
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\bin\Debug\CodeGeneratore_Business.dll
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\bin\Debug\CodeGeneratore_Business.pdb
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\bin\Debug\CodeGeneratore_DataAccess.dll
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\bin\Debug\CodeGeneratore_DataAccess.pdb
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\obj\Debug\CodeGene.E4D19D91.Up2Date
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.dll
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.pdb
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\bin\Debug\CodeGeneratore_Business.dll
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\bin\Debug\CodeGeneratore_Business.pdb
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\bin\Debug\CodeGeneratore_DataAccess.dll
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\bin\Debug\CodeGeneratore_DataAccess.pdb
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\obj\Debug\CodeGene.E4D19D91.Up2Date
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.dll
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.pdb
+C:\Users\DELL PRO\Desktop\MyCodeGenerate (Back-End)\CodeGeneratore_Business\bin\Debug\CodeGeneratore_Business.dll
+C:\Users\DELL PRO\Desktop\MyCodeGenerate (Back-End)\CodeGeneratore_Business\bin\Debug\CodeGeneratore_Business.pdb
+C:\Users\DELL PRO\Desktop\MyCodeGenerate (Back-End)\CodeGeneratore_Business\bin\Debug\CodeGeneratore_DataAccess.dll
+C:\Users\DELL PRO\Desktop\MyCodeGenerate (Back-End)\CodeGeneratore_Business\bin\Debug\CodeGeneratore_DataAccess.pdb
+C:\Users\DELL PRO\Desktop\MyCodeGenerate (Back-End)\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Desktop\MyCodeGenerate (Back-End)\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Desktop\MyCodeGenerate (Back-End)\CodeGeneratore_Business\obj\Debug\CodeGene.E4D19D91.Up2Date
+C:\Users\DELL PRO\Desktop\MyCodeGenerate (Back-End)\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.dll
+C:\Users\DELL PRO\Desktop\MyCodeGenerate (Back-End)\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.pdb
+C:\Users\DELL PRO\Desktop\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\bin\Debug\CodeGeneratore_Business.dll
+C:\Users\DELL PRO\Desktop\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\bin\Debug\CodeGeneratore_Business.pdb
+C:\Users\DELL PRO\Desktop\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\bin\Debug\CodeGeneratore_DataAccess.dll
+C:\Users\DELL PRO\Desktop\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\bin\Debug\CodeGeneratore_DataAccess.pdb
+C:\Users\DELL PRO\Desktop\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Desktop\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Desktop\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\obj\Debug\CodeGene.E4D19D91.Up2Date
+C:\Users\DELL PRO\Desktop\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.dll
+C:\Users\DELL PRO\Desktop\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.pdb

@@ -1,0 +1,18 @@
+C:\Users\PC0\Music\CodeGeneratore_DataAccess\bin\Debug\CodeGeneratore_DataAccess.dll
+C:\Users\PC0\Music\CodeGeneratore_DataAccess\bin\Debug\CodeGeneratore_DataAccess.pdb
+C:\Users\PC0\Music\CodeGeneratore_DataAccess\obj\Debug\CodeGeneratore_DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC0\Music\CodeGeneratore_DataAccess\obj\Debug\CodeGeneratore_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Music\CodeGeneratore_DataAccess\obj\Debug\CodeGeneratore_DataAccess.dll
+C:\Users\PC0\Music\CodeGeneratore_DataAccess\obj\Debug\CodeGeneratore_DataAccess.pdb
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_DataAccess\bin\Debug\CodeGeneratore_DataAccess.dll
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_DataAccess\bin\Debug\CodeGeneratore_DataAccess.pdb
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_DataAccess\obj\Debug\CodeGeneratore_DataAccess.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_DataAccess\obj\Debug\CodeGeneratore_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_DataAccess\obj\Debug\CodeGeneratore_DataAccess.dll
+C:\Users\My PC\Desktop\Basics\MyCodeGenerate 19-07-2024\CodeGeneratore_DataAccess\obj\Debug\CodeGeneratore_DataAccess.pdb
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_DataAccess\bin\Debug\CodeGeneratore_DataAccess.dll
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_DataAccess\bin\Debug\CodeGeneratore_DataAccess.pdb
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_DataAccess\obj\Debug\CodeGeneratore_DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_DataAccess\obj\Debug\CodeGeneratore_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_DataAccess\obj\Debug\CodeGeneratore_DataAccess.dll
+C:\Users\DELL PRO\Desktop\MyCodeGenerate 15-08-2024\CodeGeneratore_DataAccess\obj\Debug\CodeGeneratore_DataAccess.pdb
