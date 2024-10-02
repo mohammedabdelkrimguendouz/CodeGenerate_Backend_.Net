@@ -52,3 +52,12 @@ C:\Users\DELL PRO\Desktop\Code Generate (Back-End(.Net))\Code Generate (Back-End
 C:\Users\DELL PRO\Desktop\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\obj\Debug\CodeGene.E4D19D91.Up2Date
 C:\Users\DELL PRO\Desktop\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.dll
 C:\Users\DELL PRO\Desktop\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.pdb
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\bin\Debug\CodeGeneratore_Business.dll
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\bin\Debug\CodeGeneratore_Business.pdb
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\bin\Debug\CodeGeneratore_DataAccess.dll
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\bin\Debug\CodeGeneratore_DataAccess.pdb
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\obj\Debug\CodeGene.E4D19D91.Up2Date
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.dll
+C:\Users\DELL PRO\Desktop\Karim\My Files (23-09-2024)\Basics\Code Generate (Back-End(.Net))\Code Generate (Back-End(.Net))\CodeGeneratore_Business\obj\Debug\CodeGeneratore_Business.pdb

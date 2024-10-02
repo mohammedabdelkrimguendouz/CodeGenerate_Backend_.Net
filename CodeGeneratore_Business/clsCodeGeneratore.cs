@@ -362,7 +362,7 @@ namespace CodeGeneratore_Business
 
             sb.AppendLine(@"	         public static bool Is" + $"{ClassName}Exist({IdInfo.DataType} {IdInfo.Name}" + @")
                           {
-                                                return " + $"{ClassName}Data.Is{ClassName}Exist({IdInfo.Name})" + @";
+                                                return " + $"{ClassName}Data.Is{ClassName}ExistByID({IdInfo.Name})" + @";
                           }");
             return sb.ToString();
         }
@@ -444,7 +444,7 @@ namespace CodeGeneratore_Business
             stColumnInfo IdInfo = _GetIdInfo();
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($@"public static int AddNew" + $"{ClassName}({ClassName}DTO  {ClassName.ToLower()}DTO)" + @"
+            sb.AppendLine($@"public static " + $"{IdInfo.DataType} AddNew{ClassName}({ClassName}DTO  {ClassName.ToLower()}DTO)" + @"
                           {
                                                   " + $"{IdInfo.DataType} {IdInfo.Name} = {_GetDefaultValueForDataType(IdInfo.DataType, IdInfo.AllowNull)};" + @"
                                                   try
